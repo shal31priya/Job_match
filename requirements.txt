@@ -1,0 +1,10 @@
+Flask~=3.0.3
+pdfminer.six
+pandas~=2.2.2
+sentence-transformers
+numpy~=1.26.4
+openpyxl
+https://huggingface.co/Priyanka-Balivada/en_Resume_Matching_Keywords/resolve/main/en_Resume_Matching_Keywords-any-py3-none-any.whl
+
+
+spacy~=3.7.4
